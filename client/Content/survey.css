@@ -1,5 +1,5 @@
 .row{
-    border: 1px solid black;
+    border: 1px solid rgb(255, 255, 255);
     width: 950px;
 }
 .from-group{
@@ -40,4 +40,20 @@
     height: 800px;
     text-align: center;
     margin: 0 auto;
+}
+.BG{
+    background-image: url("../Assets/images/bg.jpg");
+    object-fit: cover;
+}
+.text{
+    color: white;
+}
+.bgc{
+    background-color: rgb(0, 0, 0, 0.5);
+}
+.bgc2{
+    background-color: rgb(0, 0, 0, 0.7);
+}
+.input{
+    color: #000;
 }
